@@ -59,9 +59,14 @@ This project presents an interactive Power BI dashboard developed to analyze Ama
 - **Offline sales** contributed more profit (56%) than online.
 
 ---
+## 📸 Screenshots
+- 1️⃣ Dashboard Overview
+![Image](https://github.com/user-attachments/assets/d77b45c6-59b8-486e-b0aa-b422e316ed84)
+
+- 2️⃣ Dashboard 2
+![Image](https://github.com/user-attachments/assets/f23869d0-98f8-45f7-bfa0-39c73826800b)
 
 ## ✅ Conclusion
-
 This project showcases how data can inform business decisions in inventory management, regional targeting, and product strategy. The Power BI dashboard offers an intuitive interface for exploring Amazon's global sales data.
 
 
